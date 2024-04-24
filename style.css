@@ -11,7 +11,6 @@ html{
 }
 .grid-container-2 {
   display: grid;
-  grid-template-columns: ;
   column-gap: 0px;
   row-gap: 20px;
   background-color: #9dadba;
